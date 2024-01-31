@@ -43,3 +43,6 @@ console.log(getRandomInt(3));
 console.log(Math.random());
 
 
+let nahodneCislo = Math.floor(Math.random() * 6) + 1;
+console.log(nahodneCislo);
+
