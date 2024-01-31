@@ -46,3 +46,4 @@ console.log(Math.random());
 let nahodneCislo = Math.floor(Math.random() * 6) + 1;
 console.log(nahodneCislo);
 
+/*Math.floor(Math.random() * (max - min) + min)*/
