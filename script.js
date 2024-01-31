@@ -32,12 +32,14 @@ document.body.innerHTML += 223 % 60;
 
 document.body.innerHTML = 'Mila' + "." + "Ivanova" + "@mujmail.com"*/
 
-const start = 15
+/*const start = 15
 const delka = 10
 const konec = (start + delka) % 24
 
 document.body.innerHTML = 'Čas konce v hodinách: ' + konec;
 
-document.body.innerHTML = Math.random();
+document.body.innerHTML = Math.random();*/
+console.log(getRandomInt(3));
+console.log(Math.random());
 
 
